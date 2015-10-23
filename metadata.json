@@ -1,0 +1,22 @@
+{
+  "name": "halyard-vim",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "summary": "Install vim from homebrew",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-vim",
+  "project_page": "https://github.com/halyard/puppet-vim",
+  "issues_url": "https://github.com/halyard/puppet-vim/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
