@@ -8,7 +8,7 @@
   "project_page": "https://github.com/halyard/puppet-vim",
   "issues_url": "https://github.com/halyard/puppet-vim/issues",
   "dependencies": [
-
+    { "name": "halyard/homebrew", "version_requirement": "1.13.x" }
   ],
   "operatingsystem_support": [
     {
