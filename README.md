@@ -6,7 +6,7 @@ vim
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 [![Build Status](https://img.shields.io/circleci/project/halyard/puppet-vim.svg)](https://circleci.com/gh/halyard/puppet-vim)
 
-Install vim from homebrew
+Install vim
 
 ## Usage
 
