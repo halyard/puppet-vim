@@ -3,7 +3,7 @@ vim
 
 [![Puppet Forge](https://img.shields.io/puppetforge/v/halyard/vim.svg)](https://forge.puppetlabs.com/halyard/vim)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-vim/master.svg)](https://circleci.com/gh/halyard/puppet-vim)
+[![Build Status](https://img.shields.io/travis/com/halyard/puppet-vim.svg)](https://travis-ci.com/halyard/puppet-vim)
 
 Install vim
 
